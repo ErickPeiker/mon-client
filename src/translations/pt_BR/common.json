@@ -1,0 +1,106 @@
+{
+
+	"3 hours": "3 horas",
+	"6 hours": "6 horas",
+	"12 hours": "12 horas",
+	"5 minutes": "5 minutos",
+	"10 minutes": "10 minutos",
+	"30 minutes": "30 minutos",
+
+  "add widget": "Adicionar Widget",
+  "add": "Adicionar",
+  "administrator": "Administrador",
+  "auto refresh": "Atualização automática",
+  "advancedtable": "Tabela Avançada",
+  "advancedgraphic": "Gráfico Avançado",
+
+  "birthdate": "Data de Nascimento",
+  "bits": "Bits",
+
+  "cancel": "Cancelar",
+  "chart type": "Tipo do Gráfico",
+  "chart": "Gráfico",
+  "client": "Cliente",
+  "cnpj": "CNPJ",
+  "collectors": "Coletores",
+  "companies": "Empresas",
+  "company": "Empresa",
+  "company data": "Dados da Empresa",
+  "company register": "Cadastro de Empresa",
+  "cpf": "CPF",
+
+  "dashboard": "Dashboard",
+  "day": "Dia",
+  "delete": "Deletar",
+  "destination ip": "IP de Destino",
+
+  "edit": "Editar",
+  "email": "Email",
+  "end date": "Data final",
+  "equipment type": "Tipo de Equipamento",
+  "equipment": "Equipamento",
+  "equipments": "Equipamentos",
+
+  "filter": "Filtrar",
+  "fullscreen": "Expandir",
+
+  "gender": "Gênero",
+  "groups": "Grupos",
+  "Graphic": "Gráfico",
+
+  "history time": "Tempo de Histórico",
+  "hour": "Hora",
+
+  "id": "Id",
+  "ie": "IE",
+  "ip": "IP",
+  "is active": "Ativo",
+  "item": "Item",
+  "items": "Itens",
+  "item quantity": "Quantidade de Item",
+  "item type": "Tipo de Item",
+  "interval": "Intervalo",
+
+  "login": "Login",
+  "logout": "Logout",
+
+  "marital status": "Estado Civil",
+  "menus": "Menus",
+  "month": "Mês",
+
+  "name": "Nome",
+
+  "observation": "Observação",
+
+  "password": "Senha",
+  "path": "Caminho",
+  "personal data": "Dados Pessoais",
+  "port": "Porta",
+  "protocol": "Protocolo",
+
+  "refresh": "Atualizar",
+  "rg": "RG",
+  "report": "Relatório",
+  "reports": "Relatórios",
+  "resale": "Revenda",
+  "role": "Papel",
+  "routes": "Rotas",
+
+  "save": "Salvar",
+  "show others": "Mostrar Outros",
+  "show data": "Mostrar os dados",
+  "show legend": "Mostrar Legenda",
+  "source ip": "IP de Origem",
+  "start date": "Data Início",
+  "switch company": "Alterar Empresa",
+  "switch": "Alterar",
+
+  "type": "Tipo",
+  "Table": "Tabela",
+
+  "users": "Usuários",
+  "user": "Usuário",
+  "user data": "Dados do Usuário",
+
+  "week": "Semana"
+}

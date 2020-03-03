@@ -1,0 +1,15 @@
+version: '2'
+
+services:
+  app:
+    image: cbsan/react
+    restart: always
+    ports:
+      - '8080:3000'
+    environment:
+      NODE_ENV: development
+      DISPLAY: $DISPLAY
+    volumes:
+      - './:/usr/src/app'
+      - '/tmp/.X11-unix:/tmp/.X11-unix'
+    tty: true
